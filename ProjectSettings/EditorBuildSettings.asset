@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Fly over.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Under.unity
+    guid: 5384e3e18b82a4d3da14de26ac44b92c
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: c516d77a4b4b0447787b53b31c1c6ddf
+  - enabled: 0
+    path: Assets/Scenes/Level 4.unity
+    guid: c444a3223443943249f38b81ba45c5d0
+  - enabled: 0
+    path: Assets/Scenes/Level 5.unity
+    guid: 8e564a1d2bf8e44ca871a8a2a8254201
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ce78503e8b8bc4258b762fd987ab7ab0, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 3bdeffe846ef04d2d8824dfcf9aab29f, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: ab9810de432a24373af508d9464a1c0c, type: 2}
